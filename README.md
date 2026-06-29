@@ -4,10 +4,6 @@
 
 # Olá, eu sou o Vinicius
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Software%20Developer;Open%20Source%20Enthusiast)](https://git.io/typing-svg)
-
-</div>
-
 Atualmente sou estudante do Bacharelado em Ciência e Tecnologia na **ICT UNIFESP**, com foco na área de **Matemática Computacional**. 
 
 Estou direcionando meus estudos e projetos para o universo de **Ciência de Dados, Inteligência Artificial e Machine Learning**, utilizando o rigor matemático da faculdade para construir modelos inteligentes e analisar dados de forma analítica.
