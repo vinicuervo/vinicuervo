@@ -8,25 +8,6 @@
 
 </div>
 
-## 🚀 Sobre mim
-
-Atualmente sou estudante do Bacharelado em Ciência e Tecnologia - ICT UNIFESP, estou seguindo para a área de Matemática Computacional.
-
-
-
-## 🛠️ Tech Stack
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinicuervo&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?username=vinicuervoe&theme=github-dark-blue&hide_border=true&background=0d1117)](https://git.io/streak-stats)
-
-</div>
-
-
 Atualmente sou estudante do Bacharelado em Ciência e Tecnologia na **ICT UNIFESP**, com foco na área de **Matemática Computacional**. 
 
 Estou direcionando meus estudos e projetos para o universo de **Ciência de Dados, Inteligência Artificial e Machine Learning**, utilizando o rigor matemático da faculdade para construir modelos inteligentes e analisar dados de forma analítica.
@@ -59,7 +40,6 @@ Estou direcionando meus estudos e projetos para o universo de **Ciência de Dado
 
 ---
 
-## 🤝 Conecte-se comigo
 
 Estou sempre aberto a conversar sobre projetos de IA, desafios de dados ou colaborações em código aberto!
 
